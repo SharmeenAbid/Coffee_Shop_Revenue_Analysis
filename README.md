@@ -19,3 +19,16 @@ To install the required packages, use:
 
 ```bash
 pip install pandas matplotlib
+Breakdown of Functionality
+Reads coffee shop sales data from a CSV file
+
+Cleans and preprocesses the data
+
+Calculates total and average revenue
+
+Finds the highest-earning product
+
+Plots revenue trends using matplotlib
+
+Author
+Sharmeen Abid Khan
