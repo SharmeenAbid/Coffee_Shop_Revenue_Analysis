@@ -19,16 +19,29 @@ To install the required packages, use:
 
 ```bash
 pip install pandas matplotlib
-Breakdown of Functionality
-Reads coffee shop sales data from a CSV file
 
-Cleans and preprocesses the data
+## Running the Tests
 
-Calculates total and average revenue
+### Breakdown of Functionality
+- Reads coffee shop sales data from a CSV file
+- Cleans and preprocesses the data
+- Calculates total and average revenue
+- Finds the highest-earning product
+- (Optional) Plots revenue trends using matplotlib
 
-Finds the highest-earning product
+## Deployment
+No deployment needed. Simply run the script locally:
 
-Plots revenue trends using matplotlib
+```bash
+python Coffee_Shop_Revenue_Analysis.py
 
-Author
+## Author
 Sharmeen Abid Khan
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+Instructor: Omar Al-Trad
+pandas documentation
+matplotlib documentation
